@@ -1,0 +1,7 @@
+.style{
+  font-family: Arial
+  text-transform: uppercase;
+}
+#borderimg {
+  border: 1px solid black;
+}
