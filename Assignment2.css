@@ -1,0 +1,39 @@
+div.a {
+  text-transform: uppercase;
+}
+div.b {
+  font-size: 50px;
+}
+div.c {
+  font-family: sans-serif;
+}
+p{
+color: purple;
+}
+.marked p{
+  color:blue;
+}
+#box{
+  background-color: grey;
+  width: 200px;
+  border: 10px solid green;
+  padding: 30px;
+  margin: 15px;{
+  color: red;
+}
+ul,li{
+  color: red;
+}
+div.d{
+  position: relative;
+  left: 50px;
+}
+div.e{
+  position: fixed;
+  bottom: 10px;
+}
+div.f{
+  position: absolute;
+  top: 50px;
+  right: 20px:
+  }

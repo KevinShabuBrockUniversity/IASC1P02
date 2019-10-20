@@ -1,0 +1,17 @@
+body{
+background-color: orange;
+color: blue;
+}
+
+p{
+color: green;
+}
+
+.giant{
+font size: 50px;
+}
+
+#jollyRed{
+color: red;
+text-decoration: underline;
+}
